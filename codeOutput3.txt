@@ -1,0 +1,14 @@
+Person-1 Details:
+Name: Harish
+Age: 22
+Place: Kanchipuram - 1
+
+Person-2 Details:
+Name: Thangavel
+Age: 22
+Place: Kanchipuram - 2
+
+My Interest, Inspiration and Dream:
+Interest: Full Stack Developer
+Inspiration: Abdul Kalam
+Dream: Build a own house and live happily with my family

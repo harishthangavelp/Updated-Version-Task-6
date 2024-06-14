@@ -1,0 +1,5 @@
+movie {
+  title: 'Casino Royal',
+  studio: 'Eon Productions',
+  rating: 'PG'
+}

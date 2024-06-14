@@ -1,0 +1,9 @@
+Constructor with no params: Radius: 1 Color: Red
+Constructor with one param: Radius: 3.5 Color: Red
+getRadius: 2.2
+Radius value after setRadius: 3.3
+getColor: Yellow
+Color Value after setColor: Blue
+Radius: 3.3 Color: Blue
+Area: 20.734511513692635
+Circumference: 6.6
